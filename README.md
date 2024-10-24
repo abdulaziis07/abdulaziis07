@@ -10,7 +10,7 @@ I'm *Abdul Azis*
 I started my career in the IT world when I entered Vocational High School. Then from there I started to like *the field of software development*
 especially, in the fields of programming and web development. I have a *hopes, dreams and aspirations* to become a **Software Engineer**.
 
-### Stats
+### Stats :rocket:
 
 <a href="https://github.com/abdulaziis07">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abdulaziis07" />
